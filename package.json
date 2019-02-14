@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "heroku": "^7.21.0",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-scripts": "2.1.5"
+  },
+  "engines": {
+    "npm": "6.5.0",
+    "node": "11.8.0"
   },
   "scripts": {
     "start": "react-scripts start",
